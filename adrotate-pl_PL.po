@@ -26,47 +26,47 @@ msgstr "Nie odnaleziono pliku"
 
 #: adrotate-functions.php:666
 msgid "Folder not found or not accessible"
-msgstr "Nie odnaleziono folderu albo jest on nie dostępny"
+msgstr "Nie odnaleziono folderu albo jest on niedostępny"
 
 #: adrotate-output.php:806
 msgid "Oh no! Something went wrong!"
-msgstr "Uwaga ! Coś poszło nie tak !"
+msgstr "Uwaga! Coś poszło nie tak!"
 
 #: adrotate-output.php:807
 msgid ""
 "WordPress was unable to verify the authenticity of the url you have clicked. "
 "Verify if the url used is valid or log in via your browser."
 msgstr ""
-"Wordpress nie mógł sprawdzić poprawności odnośnika który \"kliknełeś\". "
-"Sprawdz czy odnośnik jest prawidłowy albo sprawdz go w przeglądarce. "
+"Wordpress nie mógł sprawdzić poprawności odnośnika który \"kliknąłeś\". "
+"Sprawdź czy odnośnik jest prawidłowy albo sprawdź go w przeglądarce. "
 
 #: adrotate-output.php:808
 msgid ""
 "If you have received the url you want to visit via email, you are being "
 "tricked!"
 msgstr ""
-"Jeśli otrzymałeś wiadomość email z odnośnikiem który chciałeś odwiedzić, "
+"Jeśli otrzymałeś wiadomość email z odnośnikiem, który chciałeś odwiedzić, "
 "zostałeś oszukany. "
 
 #: adrotate-output.php:809
 msgid "Contact support if the issue persists:"
-msgstr "Skontaktować się z pomocą, jeśli problem nadal występuje:"
+msgstr "Skontaktuj się z pomocą, jeśli problem nadal występuje:"
 
 #: adrotate-output.php:827
 msgid ""
 "Error, Ad is not available at this time due to schedule/geolocation "
 "restrictions or does not exist!"
 msgstr ""
-"Błąd, Reklama jest nie dostępna w tym momecie z powodu ograniczeń w "
-"harmonogramie lub geolokalizacji lub może nie istnieć."
+"Błąd, reklama jest niedostępna w tym momecie z powodu ograniczeń w "
+"harmonogramie/geolokalizacji lub nie istnieje."
 
 #: adrotate-output.php:829
 msgid ""
 "Error, Ad is not available at this time due to schedule/geolocation "
 "restrictions!"
 msgstr ""
-"Błąd, Reklama jest nie dostępna w tym momecie z powodu ograniczeń w "
-"harmonogramie lub geolokalizacji."
+"Błąd, reklama jest niedostępna w tym momecie z powodu ograniczeń w "
+"harmonogramie/geolokalizacji."
 
 #: adrotate-output.php:836 adrotate-output.php:838
 msgid ""
@@ -78,15 +78,15 @@ msgstr ""
 
 #: adrotate-output.php:844
 msgid "Error, no Ad ID set! Check your syntax!"
-msgstr "Błąd, nie wybrano żadnego ID reklamy ! Sprawdz swój kod!"
+msgstr "Błąd, nie wybrano żadnego ID reklamy! Sprawdź swój kod!"
 
 #: adrotate-output.php:850
 msgid "Error, no group ID set! Check your syntax!"
-msgstr "Błąd, nie wybrano żadnego ID reklamy ! Sprawdz swój kod!"
+msgstr "Błąd, nie wybrano żadnego ID grupy! Sprawdź swój kod!"
 
 #: adrotate-output.php:855
 msgid "Error, group does not exist! Check your syntax!"
-msgstr "Błąd, nie wybrano żadnego ID reklamy ! Sprawdz swój kod !"
+msgstr "Błąd, grupa nie istnieje! Sprawdź swój kod!"
 
 #: adrotate-output.php:861
 msgid ""
